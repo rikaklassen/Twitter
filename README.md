@@ -1,5 +1,5 @@
 # Twitter
-Backup copy of pages and posts from the [Twitter](https://twitter.com/rikaklassen) account.
+Backup copy of tweets from the [Twitter](https://twitter.com/rikaklassen) account.
 
 Due to copyright concerns, replies to other people's posts are not archived on GitHub nor [GitLab](https://gitlab.com/rikaklassen/Twitter). Please use the [Wayback Machine](https://web.archive.org/web/*/https://twitter.com/rikaklassen*).
 ## Support
